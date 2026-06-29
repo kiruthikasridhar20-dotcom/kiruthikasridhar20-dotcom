@@ -12,7 +12,7 @@
 
 ---
 
-## 🐍 About Me
+## About Me
 
 <img align="right" width="380" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
 
@@ -189,7 +189,7 @@ print(me.motto())
 
 | Degree | Institution | Expected Graduation | CGPA |
 |---|---|---|---|
-| B.Tech – Artificial Intelligence & Data Science | Agni College of Technology, Anna University | April 2028 | 8.22 (Sem 1) |
+| B.Tech – Artificial Intelligence & Data Science | Agni College of Technology, Anna University | April 2028 | 8.22  |
 
 </div>
 
